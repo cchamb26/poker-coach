@@ -1,5 +1,6 @@
 import './App.css'
 import PlayingCard from './components/PlayingCard'
+import React from 'react';
 
 function App() {
   return (

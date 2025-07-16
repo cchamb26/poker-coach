@@ -17,3 +17,7 @@ export function genDeck(): Card[]{
     }
     return deck
 }
+
+export function shuffleDeck(deck: Card[]): void{
+    
+}
